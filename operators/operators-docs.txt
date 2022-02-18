@@ -1,0 +1,12 @@
+
+/*
+   Types of Operators
+
+   * Arithmetic Operators
+   * Comparison Operators
+   * Assignment Operators
+   * Logical Operators
+   * Bitwise Operators
+*/
+
+Operators is the backbone of programming language
