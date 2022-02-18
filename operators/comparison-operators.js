@@ -18,7 +18,7 @@ console.log("--------------------------------------------------")
 
 
 // Equality Operators
-// (x === 5) oponents
+// (x === 5) operands
 console.log(x === 5); // 5 === 5 Equal too
 console.log("---------------------");
 console.log(x !== 5); // 5 !== 5 Is not Equals too
