@@ -17,13 +17,13 @@ switch (condition) {
 
 console.log("----------------------------------------------");
 
-/* PRATICAL APP USING JS 
+/* Practical App Using JS 
   Grading System
-  S - super grade
-  A - Excellent
-  B - 
-  E
-  U -
+  S - Super Grade
+  A - Excellent Grade
+  B - Excellent Grade
+  E - Just Pass!
+  U - Failed Grade
 */
 
 let grade = "S";
@@ -48,7 +48,7 @@ switch (grade) {
 
 console.log("----------------------------------------------");
 
-/* PRATICAL APP */
+/* /* Practical App Using JS  */
 
 let marks = 160;
 
