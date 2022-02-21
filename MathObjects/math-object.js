@@ -4,7 +4,7 @@
 
 // purple color is methods
 // Blue color is property, property contains some kinda values
-let x = 3
+let x = -6
 //Returns the absolute value of x
 console.log(Math.abs(x));
 console.log("--------------------------------")
